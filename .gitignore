@@ -35,3 +35,4 @@ terraform.rc
 Locals/.terraform.lock.hcl
 Datasources/.terraform.lock.hcl
 Templates-Files/.terraform.lock.hcl
+Providers/.terraform.lock.hcl
