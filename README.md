@@ -70,7 +70,7 @@ This project is organized by topic, with each directory corresponding to one of 
 
 ## Feedback & Questions
 
-If you have any feedback or questions, please raise an issue in this repository or reach out to us via [email](mailto:sschlangen@gmail.com).
+If you have any feedback or questions, please raise an issue in this repository or reach out via [email](mailto:sschlangen@gmail.com).
 
 ---
 
