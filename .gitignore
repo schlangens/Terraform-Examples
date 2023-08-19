@@ -37,3 +37,4 @@ Datasources/.terraform.lock.hcl
 Templates-Files/.terraform.lock.hcl
 Providers/.terraform.lock.hcl
 Variables/.terraform.lock.hcl
+Modules/Custom Modules/.terraform.lock.hcl
