@@ -37,3 +37,4 @@ provider "aws"{
 
 ```
 - By default if you do not specify a provider on your resource then the default provider will be used (the one with no alias)
+- To tell TF to use a diff instance of a provider for a resource use the "provider" property with the syntax: `"<provider_name>.<alias>"`
